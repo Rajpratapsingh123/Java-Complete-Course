@@ -5,7 +5,7 @@
 // *** 
 // ****
 
-package Lecture2;
+package Lecture_2;
 
 public class task_1 {
     public static void main(String[] args) {
